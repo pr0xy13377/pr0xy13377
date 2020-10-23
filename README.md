@@ -1,16 +1,16 @@
-### Hi there 👋
+### whoami
 
-<!--
-**pr0xy13377/pr0xy13377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is pr0xy and i'm a CyberSecurity student.
+and i am learning programming.. 12 years old
+### Nationality
+- Brazilian 🇧🇷
 
-Here are some ideas to get you started:
+### Programming languages 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python 3 🐍
+- C/C++ ©️
+- PHP 🐘
+
+### Other stuff i'm learning
+- Linux 
+- Networking
