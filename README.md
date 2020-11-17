@@ -1,7 +1,6 @@
 ### whoami
 
 Hello, my name is pr0xy, i'm learning CyberSecurity and also programming..
-12 years old
 ### Nationality
 - Brazilian 🇧🇷
 
