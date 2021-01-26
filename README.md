@@ -8,7 +8,6 @@ Hello, my name is pr0xy, i'm learning CyberSecurity and also programming..
 
 - Python 3 🐍
 - C/C++ ©️
-- PHP 🐘
 - x86 Assembly 💻
 
 ### Other stuff i'm learning
